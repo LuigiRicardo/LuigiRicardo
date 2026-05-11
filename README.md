@@ -5,7 +5,7 @@
   <img height= "230em" src="https://luigi-readme-status.vercel.app/api/top-langs?username=LuigiRicardo&layout-compact&langs_count=16&theme=dracula">
 </div>
 <br>
-<div style="display: flex flex-direction: row">
+<div style="display: flex; flex-direction: row; gap: 10px;">
   <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
