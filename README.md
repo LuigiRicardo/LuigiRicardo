@@ -1,8 +1,8 @@
 ## 🦖Hi there! Welcome to my profile!
 
 <div>
-  <img height= "300em" src="https://luigi-readme-status.vercel.app/api?username=LuigiRicardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height= "300em" src="https://luigi-readme-status.vercel.app/api/top-langs?username=LuigiRicardo&layout-compact&langs_count=16&theme=dracula">
+  <img height= "280em" src="https://luigi-readme-status.vercel.app/api?username=LuigiRicardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height= "280em" src="https://luigi-readme-status.vercel.app/api/top-langs?username=LuigiRicardo&layout-compact&langs_count=16&theme=dracula">
 </div>
 <br>
 <div style="display: flex; flex-direction: row; gap: 10px;">
